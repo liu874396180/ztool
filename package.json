@@ -1,0 +1,38 @@
+{
+  "name": "ztool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "http://zhangxiaojie/",
+  "keywords":[    
+    "ztool",
+    "js",
+    "javascript",
+    "framework",
+    "frontend"
+  ],
+  "scripts": {
+
+  },
+  "author":"xxiaojiee",
+  "contributors": ["xxiaojiee"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxiaojiee/ztool/issues"
+  },
+  "engines": {
+		"node": ">= 6.11.0",
+		"npm": ">= 5.0.0"
+  },
+  "browserslist": [
+		"> 1%",
+		"last 2 versions",
+		"not ie <= 8"
+	],
+  "repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/xxiaojiee/ztool"
+		}
+	]
+}
